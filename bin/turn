@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 require_relative "../lib/turn.rb"
 board = Array.new(9, " ")
-puts "#{valid_move?(board, 0)}
+puts "#{valid_move?(board, 0)}"
